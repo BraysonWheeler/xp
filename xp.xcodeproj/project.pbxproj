@@ -11,6 +11,17 @@
 		320E68F429EAF27800A27FD0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 320E68F329EAF27800A27FD0 /* ContentView.swift */; };
 		320E68F629EAF27900A27FD0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 320E68F529EAF27900A27FD0 /* Assets.xcassets */; };
 		320E68F929EAF27900A27FD0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 320E68F829EAF27900A27FD0 /* Preview Assets.xcassets */; };
+		320E690229EAF61A00A27FD0 /* SignUpUsernameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 320E690129EAF61A00A27FD0 /* SignUpUsernameView.swift */; };
+		320E690429EB011D00A27FD0 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 320E690329EB011D00A27FD0 /* LoginView.swift */; };
+		320E690629EB01B200A27FD0 /* SkillsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 320E690529EB01B200A27FD0 /* SkillsView.swift */; };
+		320E690829EB060400A27FD0 /* Coordinator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 320E690729EB060400A27FD0 /* Coordinator.swift */; };
+		32AEDFA929EB3A2200D2CEB5 /* Shake.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32AEDFA829EB3A2200D2CEB5 /* Shake.swift */; };
+		32AEDFAB29EB3D2C00D2CEB5 /* Validators.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32AEDFAA29EB3D2C00D2CEB5 /* Validators.swift */; };
+		32AEDFAD29EB64C200D2CEB5 /* SignUpPasswordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32AEDFAC29EB64C200D2CEB5 /* SignUpPasswordView.swift */; };
+		32AEDFB529EB97D600D2CEB5 /* PasswordSubmitButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32AEDFB429EB97D600D2CEB5 /* PasswordSubmitButtonView.swift */; };
+		32AEDFB729EC4AA600D2CEB5 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32AEDFB629EC4AA600D2CEB5 /* Constants.swift */; };
+		32AEDFB929EC4BFF00D2CEB5 /* MinimumPasswordLengthView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32AEDFB829EC4BFF00D2CEB5 /* MinimumPasswordLengthView.swift */; };
+		32AEDFBB29EC4E3B00D2CEB5 /* PasswordSpecialCharacterCheckView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32AEDFBA29EC4E3B00D2CEB5 /* PasswordSpecialCharacterCheckView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +30,17 @@
 		320E68F329EAF27800A27FD0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		320E68F529EAF27900A27FD0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		320E68F829EAF27900A27FD0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		320E690129EAF61A00A27FD0 /* SignUpUsernameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpUsernameView.swift; sourceTree = "<group>"; };
+		320E690329EB011D00A27FD0 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
+		320E690529EB01B200A27FD0 /* SkillsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SkillsView.swift; sourceTree = "<group>"; };
+		320E690729EB060400A27FD0 /* Coordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coordinator.swift; sourceTree = "<group>"; };
+		32AEDFA829EB3A2200D2CEB5 /* Shake.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shake.swift; sourceTree = "<group>"; };
+		32AEDFAA29EB3D2C00D2CEB5 /* Validators.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Validators.swift; sourceTree = "<group>"; };
+		32AEDFAC29EB64C200D2CEB5 /* SignUpPasswordView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpPasswordView.swift; sourceTree = "<group>"; };
+		32AEDFB429EB97D600D2CEB5 /* PasswordSubmitButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PasswordSubmitButtonView.swift; sourceTree = "<group>"; };
+		32AEDFB629EC4AA600D2CEB5 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		32AEDFB829EC4BFF00D2CEB5 /* MinimumPasswordLengthView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MinimumPasswordLengthView.swift; sourceTree = "<group>"; };
+		32AEDFBA29EC4E3B00D2CEB5 /* PasswordSpecialCharacterCheckView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PasswordSpecialCharacterCheckView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +73,14 @@
 		320E68F029EAF27800A27FD0 /* xp */ = {
 			isa = PBXGroup;
 			children = (
+				32AEDFB329EB969800D2CEB5 /* SignUp */,
+				32AEDFAE29EB93C900D2CEB5 /* Validators */,
+				320E690329EB011D00A27FD0 /* LoginView.swift */,
 				320E68F129EAF27800A27FD0 /* xpApp.swift */,
+				320E690529EB01B200A27FD0 /* SkillsView.swift */,
+				320E690729EB060400A27FD0 /* Coordinator.swift */,
 				320E68F329EAF27800A27FD0 /* ContentView.swift */,
+				32AEDFA829EB3A2200D2CEB5 /* Shake.swift */,
 				320E68F529EAF27900A27FD0 /* Assets.xcassets */,
 				320E68F729EAF27900A27FD0 /* Preview Content */,
 			);
@@ -65,6 +93,27 @@
 				320E68F829EAF27900A27FD0 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		32AEDFAE29EB93C900D2CEB5 /* Validators */ = {
+			isa = PBXGroup;
+			children = (
+				32AEDFAA29EB3D2C00D2CEB5 /* Validators.swift */,
+				32AEDFB629EC4AA600D2CEB5 /* Constants.swift */,
+			);
+			path = Validators;
+			sourceTree = "<group>";
+		};
+		32AEDFB329EB969800D2CEB5 /* SignUp */ = {
+			isa = PBXGroup;
+			children = (
+				320E690129EAF61A00A27FD0 /* SignUpUsernameView.swift */,
+				32AEDFAC29EB64C200D2CEB5 /* SignUpPasswordView.swift */,
+				32AEDFB429EB97D600D2CEB5 /* PasswordSubmitButtonView.swift */,
+				32AEDFB829EC4BFF00D2CEB5 /* MinimumPasswordLengthView.swift */,
+				32AEDFBA29EC4E3B00D2CEB5 /* PasswordSpecialCharacterCheckView.swift */,
+			);
+			path = SignUp;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,7 +186,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				32AEDFA929EB3A2200D2CEB5 /* Shake.swift in Sources */,
+				320E690829EB060400A27FD0 /* Coordinator.swift in Sources */,
+				32AEDFAD29EB64C200D2CEB5 /* SignUpPasswordView.swift in Sources */,
+				32AEDFB529EB97D600D2CEB5 /* PasswordSubmitButtonView.swift in Sources */,
 				320E68F429EAF27800A27FD0 /* ContentView.swift in Sources */,
+				32AEDFB729EC4AA600D2CEB5 /* Constants.swift in Sources */,
+				320E690629EB01B200A27FD0 /* SkillsView.swift in Sources */,
+				32AEDFAB29EB3D2C00D2CEB5 /* Validators.swift in Sources */,
+				320E690229EAF61A00A27FD0 /* SignUpUsernameView.swift in Sources */,
+				320E690429EB011D00A27FD0 /* LoginView.swift in Sources */,
+				32AEDFB929EC4BFF00D2CEB5 /* MinimumPasswordLengthView.swift in Sources */,
+				32AEDFBB29EC4E3B00D2CEB5 /* PasswordSpecialCharacterCheckView.swift in Sources */,
 				320E68F229EAF27800A27FD0 /* xpApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
